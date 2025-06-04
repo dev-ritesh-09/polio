@@ -81,7 +81,7 @@ const Header = () => {
               <Linkedin className="h-5 w-5" />
             </a>
             <a 
-              href="mailto:your.email@example.com" 
+              href="mailto:ritesh.kumar.cs28@iilm.edu" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-slate-300 hover:text-blue-400 transition-colors"

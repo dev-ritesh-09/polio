@@ -24,7 +24,7 @@ const NotFound = () => {
           className="inline-flex items-center gap-2 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition-colors duration-300"
         >
           <Home className="h-5 w-5" />
-          Return to Home
+          Return to Home 
         </a>
       </div>
     </div>
